@@ -1,7 +1,7 @@
 ---
-name: Empty Project
-tools: [Node JS, JavaScript, HTML, CSS]
-image:
-description: This project has no image or showcase page, but it is still a beautiful project inside out!
-external_url: https://github.com/YoussefRaafatNasry
+name: Music Box with 16 Tunes
+tools: [Pico-8]
+image: /homepage/assets/images/music_box.png
+description: a simple game about music, color, and rhythm
+external_url: https://kochan12.itch.io/music-box
 ---

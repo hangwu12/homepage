@@ -5,5 +5,3 @@ image: /homepage/assets/images/Pikachu.png
 description: Hang's first game project with Pico-8
 external_url: https://kochan12.itch.io/pikachu
 ---
-
-this is a game that I made for the 2021 new year!
