@@ -3,7 +3,7 @@ title               : homepage 主页
 description         : >-
                       生活 · 创造
 baseurl             : "/blog"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : github.com/koshan12/     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : hangwu12/hangwu12.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
@@ -23,9 +23,9 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : kochan12 
-  image             : https://raw.githubusercontent.com/koshan12/blog/main/pics/eclipse.png
+  image             : /assets/images/eclipse.png
 # dribbble          : your_username
-  email             : username@domain.com
+  email             : hangwu@uchicago.edu
 # gitlab            : your_username
 # instagram         : your_username
 # soundcloud        : your_username
