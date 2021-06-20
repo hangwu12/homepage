@@ -1,4 +1,4 @@
-- title: B.A. in Communication Studies, Xiamen University, China
+- title: Currently a PhD student in Cinema and Media Studies, University of Chicago
   # from: 2014
   # to: 2018
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
@@ -6,6 +6,8 @@
                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
 
 - title: M.Phil. in Humanities, Hong Kong University of Science and Technology
   # from: 2018
@@ -15,3 +17,13 @@
                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- title: B.A. in Communication Studies, Xiamen University
+  # from: 2014
+  # to: 2018
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
