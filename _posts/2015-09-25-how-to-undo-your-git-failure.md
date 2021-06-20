@@ -2,7 +2,7 @@
 title: test
 tags: [meow]
 style: fill
-color: warning
+color: primary
 description: thus ...
 external_url: https://www.douban.com/
 ---
