@@ -16,6 +16,6 @@ Hi I am **{{ site.author.name }}**,<br>
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div> -->
 
-<div class="row">
+<!-- <div class="row">
 {% include about/timeline.html %}
-</div>
+</div> -->
