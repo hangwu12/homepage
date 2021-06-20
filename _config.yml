@@ -17,13 +17,13 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
-  - documentation/partials/**                           # For Documentation Only
+  
 
 
 ### Author Info ###
 author:
   name              : kochan12 
-  image             : https://img9.doubanio.com/view/status/raw/public/94ec98b7fd70fdc.jpg
+  image             : https://github.com/koshan12/blog/blob/main/pics/eclipse.jpeg
 # dribbble          : your_username
   email             : username@domain.com
 # gitlab            : your_username
