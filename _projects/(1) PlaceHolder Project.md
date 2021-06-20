@@ -1,7 +1,9 @@
 ---
-name: PlaceHolder Project
-tools: [nothing, important]
-image: https://www.sketchappsources.com/resources/source-image/project-neon-groove-music-ui.png
-description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-external_url: https://www.google.com
+name: Pikachu, Flowerfield, Riceballs on fire, and Hang's new year wishes
+tools: [pico-8]
+image: /homepage/assets/images/Pikachu.png
+description: Hang's first game project with Pico-8
+external_url: https://kochan12.itch.io/pikachu
 ---
+
+this is a game that I made for the 2021 new year!
