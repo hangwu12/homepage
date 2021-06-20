@@ -2,8 +2,8 @@
 title               : 记录
 description         : >-
                       生活和创造
-baseurl             : "koshan12.github.io/"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : github.com/koshan12/blog     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+baseurl             : "koshan12.github.io"                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
+repository          : github.com/koshan12/     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
 
 
