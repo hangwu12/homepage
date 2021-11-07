@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "About"
+    url: /about
+  - title: "Publications"
+    url: /publications/
+  - title: "Projects"
+    url: /games
+
+
+
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+    # - title: "Collection"
+    # url: /collection-archive/
