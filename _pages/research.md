@@ -11,7 +11,9 @@ author_profile: true
 
 > Projects in progress:
 
-Some of my ongoing projects explore (1) the current cyberpunk new wave and the cyberized city as a global technologized space that processes information; (2) the material history and aesthetics of special effects and digital effects in monster movies. Recently I am planning to start a project on ISO10464, Unicode, and Chinese character (or CJK) encoding in relation to media regionalism, a project led by my increasing interest in computer programming and my experience learning Japanese as my second East Asian language.
+Some of my ongoing projects explore (1) the lighting effects in the current cyberpunk new wave and the Asian global cities as a cyberscape that processes information; (2) the material history and aesthetics of special effects and digital effects in monster movies. 
+<!-- 
+Recently I am planning to start a project on ISO10464, Unicode, and Chinese character (or CJK) encoding in relation to media regionalism, a project led by my increasing interest in computer programming and my experience learning Japanese as my second East Asian language. -->
 
 >Works that I have done:
 
