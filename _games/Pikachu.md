@@ -1,6 +1,7 @@
 ---
 title: "Pikachu, Flowerfield, Riceballs on fire, and Hang's new year wishes"
 excerpt: "A game made during Covid-19"
+date: 2021-06-24
 header:
   image: /assets/images/pikachu_header.png
   teaser: /assets/images/pikachu_header.png

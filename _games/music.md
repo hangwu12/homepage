@@ -1,6 +1,7 @@
 ---
 title: "Music Box with 16 Tunes"
 excerpt: "My experiment with movements and music"
+date: 2021-06-22
 header:
   teaser: /assets/images/music_box.png
 
@@ -26,12 +27,10 @@ I was also thinking about works like <i>Symphonie Diagonale</i> (Viking Eggeling
 
 <br>
 
-After this game was done, I was really glad that I read some passages from Gilbert Simondon's newly translated book <i>Individuation in Light of Notions of Form and Information</i>, where he talks about pendulums, the kinetic energy and the potential energy. I often find his writing confusing, but I do like this part very much. It shows us that the transformation of energy happens when something is oscillating between two states. I felt that the game really resonates with what I read. 
+After this game was done, I was really glad that I read some passages from Gilbert Simondon's newly translated book <i>Individuation in Light of Notions of Form and Information</i>, where he talks about pendulums, the kinetic energy and the potential energy. I often find his writing confusing, but I do like this part very much. It shows us that the transformation of energy happens when something is oscillating between two states. I felt that there is something resonating between the game and the passage.  
 
 >"We shall begin with this postulate: individuation requires a true relation, a relation that can only be given in a system state that envelops a potential. The consideration of potential energy is not merely useful insofar as it teaches us to think the reality of relation; it also offers us a possibility of measure through the method of reciprocal convertibility; for example, let’s consider a series of increasingly complicated pendulums, and let’s attempt to note the transformations of energy of which they are the source during a period
 of oscillation: we shall see that we can confirm not only the convertibility of potential energy into kinetic energy, then into potential energy, which is converted back into kinetic energy, but also the equivalence of two different forms of potential energy that are converted into one another through a determinate quantity of kinetic energy." (57-58)
-
-Gilbert Simondon, <cite>Individuation in Light of Notions of Form and Information</cite>
 
 <b>A reflection essay</b>
 
