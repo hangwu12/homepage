@@ -6,7 +6,8 @@ main:
     url: /publications/
   - title: "Projects"
     url: /games
-
+  - title: "Posts"
+    url: /year-archive/
 
 
   # - title: "Sitemap"
