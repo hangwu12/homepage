@@ -1,6 +1,7 @@
 ---
 title: "Chou"
 excerpt: "An ongoing project about the little cat Chou..."
+date: 2021-06-24
 header:
   teaser: /assets/images/chou2.png
 
