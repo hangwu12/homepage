@@ -12,7 +12,7 @@ gallery:
     image_path: assets/images/simondon2.png
     alt: "placeholder image 2"
   - url: /assets/images/simondon3.png
-    image_path: assets/images/simondon3.png
+    image_path: assets/images/simondon4.png
     alt: "placeholder image 3"
     
 author_profile: true
