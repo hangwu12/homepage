@@ -307,8 +307,19 @@ defaults:
       layout: single
       author_profile: false
       share: false
+  # _web-programming
+  - scope:
+      path: ""
+      type: web-programming
+    values:
+      layout: single
+      author_profile: false
+      share: false
 
 collections:
   games:
+    output: true
+    permalink: /:collection/:path/
+  web-programming:
     output: true
     permalink: /:collection/:path/

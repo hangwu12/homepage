@@ -2,7 +2,7 @@
 title: GAMES
 layout: collection
 permalink: /games/
-collection: games
+collection: GAMES
 entries_layout: grid
 classes: wide
 ---

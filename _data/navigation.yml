@@ -4,8 +4,10 @@ main:
     url: /about
   - title: "Publications"
     url: /publications/
-  - title: "Projects"
-    url: /games
+  - title: "Conferences"
+    url: /conferences/  
+  - title: "Creative Projects"
+    url: /collection-archive-grid/
   - title: "Posts"
     url: /year-archive/
 
