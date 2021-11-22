@@ -11,7 +11,7 @@ author_profile: true
 <b> PUBLICATIONS </b>
 <br>
 
-“Radio Broadcasting Infrastructures and Signaletic Fatality: Listening to the Enemy Radio in Socialist China.” In <i>Sound Communities in the Asia Pacific: Music, Media, and Technology</i>, edited by Lonán Ó Briain and Min Ong. Bloomsbury Academic, 2021.
+“Radio Broadcasting Infrastructures and Electromagnetic Fatality: Listening to the Enemy Radio in Socialist China.” In <i>Sound Communities in the Asia Pacific: Music, Media, and Technology</i>, edited by Lonán Ó Briain and Min Ong. Bloomsbury Academic, 2021.
 
 “Puppet Animation in Socialist China: Realism and the Animated Feeling of Life 社会主义初期的木偶动画、生命感与现实主义.” <i>Literature</i> 《文学》, no.1 (2020): 97-111. 
 
