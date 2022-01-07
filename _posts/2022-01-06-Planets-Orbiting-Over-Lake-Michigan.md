@@ -17,5 +17,3 @@ The index page from 2021 November to 2022 January
     <p>2021-Nov-6</p>
 
     <p>An augmented reality sketch that I worked on for Prof. Marc Downie's production class. The windy weather and sands almost destroyed my laptop and phone while recording this video o(TヘTo)</p>
-
-   </head>
