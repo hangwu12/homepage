@@ -4,7 +4,6 @@ excerpt: "A New Year's Game"
 date: 2022-01-01
 header:
   teaser: /assets/images/omi_title1.png
-layout: single
 classes: wide
 author_profile: true
 gallery:
@@ -44,13 +43,13 @@ gallery:
     </figure>
     </head>
 
-
     {% include gallery %}
 
- 
-   Happy New Year 2022! Come and check out the game that we designed to send out our new year wishes!
-   In collarboration with Joel Jordon
-    <b> Play </b>
-    
-    [Run Game 开始游戏](https://kochan12.itch.io/crisis-in-ominomitopia){: .btn .btn--danger}
+  Happy New Year 2022! Come and check out the game that we designed to send out our new year wishes!
+
+  In collarboration with Joel Jordon
+
+  <b> Play </b>
+
+  [Run Game 开始游戏](https://kochan12.itch.io/crisis-in-ominomitopia){: .btn .btn--danger}
   
