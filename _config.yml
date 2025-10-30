@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/selfie.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "She/They is currently working on East Asian cinema and media as a Ph.D. student." 
 
-  location         : "Chicago"
+  location         : "Chicago, US"
   # email            : 
   links:
     - label: "Email"
