@@ -48,8 +48,9 @@ gallery:
     {% include gallery %}
 
  
-    <p>Happy New Year 2022! Come and check out the game that we designed to send out our new year wishes!</p>
-    <p> In collarboration with Joel Jordon </p>
+   Happy New Year 2022! Come and check out the game that we designed to send out our new year wishes!
+   In collarboration with Joel Jordon
     <b> Play </b>
+    
     [Run Game 开始游戏](https://kochan12.itch.io/crisis-in-ominomitopia){: .btn .btn--danger}
   
