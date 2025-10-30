@@ -27,7 +27,6 @@ gallery:
     image_path: assets/images/omi_lines.png
     alt: "placeholder image 6"
 
-
 ---
 
 <h4 style = "text-align: center;"> <i> Crisis in Ominomitopia: Eat, Dance, Survive!</i></h4>
