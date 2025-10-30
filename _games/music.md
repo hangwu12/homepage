@@ -50,13 +50,10 @@ Use the direction keys to control the pink ball to create beautiful tunes of you
 
 There are moments when my math expressions for coding the movement fail--you'll see what happens. So far I don't want to fix it because I think it is a fun surprise. Press X to restart. 
 
-Please enter full screen to enjoy the game better :)
-
 使用方向键来操纵粉红色的小球，创造属于自己的美妙音乐（可能也不是太美妙！但是不美也很好！）。请尽情享受重力、摩擦和飞速的（和缓慢的）弹跳吧！
 
 有时我的数学表达式无法很好地编码球球的运动，你到时候会看到什么将会发生。 到目前为止，我还是不想修复这个问题。请把它当成有趣的惊喜吧。 按X键重新开始。
 
-全屏幕感受游戏会更美好呢！
 
 <b> Play </b>
 
