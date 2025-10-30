@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Hang Wu | 吴 航"
   avatar           : "/assets/images/selfie.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD Candidate, University of Chicago" 
+  bio              : "PhD Candidate @ The University of Chicago" 
 
   location         : "Chicago"
   # email            : 
