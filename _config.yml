@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Hang Wu | 吴 航"
   avatar           : "/assets/images/selfie.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "She/They is currently working on East Asian cinema and media as a Ph.D. student." 
+  bio              : "She is currently working on East Asian cinema and media as a Ph.D. student." 
 
-  location         : "Chicago, US"
+  location         : "Chicago"
   # email            : 
   links:
     - label: "Email"
