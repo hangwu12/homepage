@@ -9,8 +9,7 @@ author_profile: true
 
 <style>
 .hanging {
-  padding-left: -2em;
-  text-indent: -2em;
+  padding-right: 2em;
 }
 </style>
 
