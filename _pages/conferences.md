@@ -17,17 +17,17 @@ author_profile: true
 
 2022 “Surface and Depth: The Spatial Imagination of Digital Media,” Institute for Advanced Studies in Humanities and Social Sciences, Beihang University, Beijing. 
 
-2021 “<a href="{{ site.baseurl }}/animation-ucsd">Animation and Transmediality </a>,” Guest lecture for “Readings in Contemporary Chinese Literature: Transmedia Practices” (Yiwen Wang), University of California San Diego
+2021 “<a href="{{ site.baseurl }}/animation-ucsd" style="text-decoration:none">Animation and Transmediality </a>,” Guest lecture for “Readings in Contemporary Chinese Literature: Transmedia Practices” (Yiwen Wang), University of California San Diego
 
-2020 “<a href="{{ site.baseurl }}/animal_media">Animal Media </a>,”  Guest Lecture for "Introduction to East Asian Media Studies" (Yuriko Furuhata), McGill University.
+2020 “<a href="{{ site.baseurl }}/animal_media" style="text-decoration:none">Animal Media </a>,”  Guest Lecture for "Introduction to East Asian Media Studies" (Yuriko Furuhata), McGill University.
 
 
 <b> CONFERENCE PRESENTATIONS  </b>
 <br>
 
-2025 Moderator for “The Intersection of Advertising and New Media Conditions in Japan’s 1980s,” Association for Japanese Literary Studies 33rd Annual Meeting on “Media Temporalities.”
+2025 Moderator for “<a href="https://sites.google.com/view/ajls/annual-meeting" style="text-decoration:none">The Intersection of Advertising and New Media Conditions in Japan’s 1980s</a>,” Association for Japanese Literary Studies 33rd Annual Meeting on “Media Temporalities.”
 
-2025 “The Emergence of a Novel–Television Assemblage in Late Colonial Hong Kong,” The Art and Politics of East Asia Workshop, University of Chicago.
+2025 “<a href="https://events.uchicago.edu/event/254574-cas-workshop-apea-ft-hang-wu" style="text-decoration:none">The Emergence of a Novel–Television Assemblage in Late Colonial Hong Kong</a>,” The Art and Politics of East Asia Workshop, University of Chicago.
 
 2025 Video Essay, “Stroboscopic Effects: Between North American Experimental Animation and Hong Kong Martial Arts Television,” Graduate Research Forum, Cinema and Media Studies, The University of Chicago.
 
