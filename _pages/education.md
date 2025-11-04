@@ -7,12 +7,6 @@ classes: wide
 author_profile: true
 ---
 
-<style>
-.indent {
-  margin-left: 2em; /* move the whole paragraph right */
-}
-</style>
-
 
 <b>PhD      University of Chicago, United States </b> 
 
