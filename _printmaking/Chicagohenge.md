@@ -8,10 +8,10 @@ author_profile: true
 layout: single
 ---
 
-My printmaking work on the city Chicago 
+
 
 <h4 style = "text-align: center;"> <i> Chicagohenge</i></h4>
-<br>
+<p style = "text-align: center;">My printmaking work on the city Chicago </p>
 
   <head style="text-align: center;">
   <figure style = "text-align: center">
