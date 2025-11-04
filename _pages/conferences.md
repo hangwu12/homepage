@@ -27,7 +27,7 @@ author_profile: true
 
 2025 Moderator for “The Intersection of Advertising and New Media Conditions in Japan’s 1980s,” Association for Japanese Literary Studies 33rd Annual Meeting on “Media Temporalities.”
 
-2025 “The Emergence of a Novel–Television Assemblage in Late Colonial Hong Kong,” The Art and Politics of East Asia Workshop, University of Chicago.
+2025 “<a href="https://events.uchicago.edu/event/254574-cas-workshop-apea-ft-hang-wu">The Emergence of a Novel–Television Assemblage in Late Colonial Hong Kong</a>,” The Art and Politics of East Asia Workshop, University of Chicago.
 
 2025 Video Essay, “Stroboscopic Effects: Between North American Experimental Animation and Hong Kong Martial Arts Television,” Graduate Research Forum, Cinema and Media Studies, The University of Chicago.
 
