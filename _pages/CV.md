@@ -6,5 +6,8 @@ layout: single
 classes: wide
 author_profile: true
 ---
-Link to CV
-<a href="{{ site.url }}{{ site.baseurl }}/assets/pdfs/cv.pdf" style="text-decoration:none"> CV pdf </a>
+<br>
+<br>
+<b>
+<a href="{{ site.url }}/assets/pdfs/cv.pdf" style="text-decoration:none"> CV pdf </a>
+</b>
