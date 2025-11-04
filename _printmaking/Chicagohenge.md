@@ -5,7 +5,7 @@ date: 2022-06-22
 header:
   teaser: /assets/images/pm_chicago_1.png
 author_profile: true
-classes: wide
+layout: single
 ---
 
 My printmaking work on the city Chicago 
