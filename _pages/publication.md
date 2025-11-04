@@ -33,8 +33,6 @@ author_profile: true
 
 2017 “闽南地域文化与国族想象：冷战中的厦语片, The Hokkien Vernacular Imagination of Nation-States: the Amoy-Dialect Cinema During the Cold-War.” 《当代电影》 <i> Contemporary Cinema </i> , no.7 (2017), 144-150. 
 
-<br>
-
 <b>Translation</b>
 <br>
 Du, Daisy Yan.  <i> Animated Encounters: Transnational Movements of Chinese Animation, 1940s–1970s </i> . Honolulu: University of Hawai’i Press, 2018. (English to Chinese, submitted to the press)
