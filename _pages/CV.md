@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: ""
 permalink: /CV/
 date: 2025-10-24 
 layout: single
