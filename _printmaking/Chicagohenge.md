@@ -16,6 +16,5 @@ My printmaking work on the city Chicago
   <head style="text-align: center;">
   <figure style = "text-align: center">
       <img src="{{site.baseurl}}/assets/images/pm_chicago_1.png">
-      <p></p>
   </figure>
   </head>
