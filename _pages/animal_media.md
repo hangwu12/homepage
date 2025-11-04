@@ -17,8 +17,7 @@ Clips: Good Hunting (in Love, Death & Robots, 2019); Monster Hunt (捉妖记, Ra
 
 -- Daisy Yan Du, “Animals, Ethnic Minorities, and Villains in Animated Film during the Cultural Revolution,” in <i>Animated Encounters: Trans/National Movements of Chinese Animation, 1940s-1970s</i>, 2017.
 
+<a href="{{ site.url }}{{ site.baseurl }}/assets/pdfs/animal_media.pdf" style="text-decoration:none">Link to Slides </a>
 
-
-<object data="{{ site.url }}{{ site.baseurl }}/assets/pdfs/animal_media.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
