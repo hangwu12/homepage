@@ -1,7 +1,7 @@
 ---
 title: ""
 permalink: /conferences/
-date: 2021-06-24 
+date: 2025-11-04 
 layout: single
 classes: wide
 author_profile: true
