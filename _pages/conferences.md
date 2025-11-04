@@ -25,7 +25,7 @@ author_profile: true
 <b> CONFERENCE PRESENTATIONS  </b>
 <br>
 
-2025 Moderator for “The Intersection of Advertising and New Media Conditions in Japan’s 1980s,” Association for Japanese Literary Studies 33rd Annual Meeting on “Media Temporalities.”
+2025 Moderator for “<a href="https://sites.google.com/view/ajls/annual-meeting">The Intersection of Advertising and New Media Conditions in Japan’s 1980s</a>,” Association for Japanese Literary Studies 33rd Annual Meeting on “Media Temporalities.”
 
 2025 “<a href="https://events.uchicago.edu/event/254574-cas-workshop-apea-ft-hang-wu">The Emergence of a Novel–Television Assemblage in Late Colonial Hong Kong</a>,” The Art and Politics of East Asia Workshop, University of Chicago.
 
