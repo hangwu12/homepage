@@ -1,6 +1,6 @@
 ---
 title: "Chicagohenge"
-excerpt: "My printmaking work on the city Chicago"
+excerpt: "A printmaking work on the city Chicago"
 date: 2022-06-22
 header:
   teaser: /assets/images/pm_chicago_1.png
@@ -11,7 +11,7 @@ layout: single
 
 
 <h4 style = "text-align: center;"> <i> Chicagohenge</i></h4>
-<p style = "text-align: center;">My printmaking work on the city Chicago </p>
+<p style = "text-align: center;">A printmaking work on the city Chicago </p>
 
   <head style="text-align: center;">
   <figure style = "text-align: center">

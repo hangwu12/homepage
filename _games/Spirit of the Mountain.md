@@ -50,7 +50,7 @@ The Canadian organization Weird Ghosts rewarded us with a studio development gra
 
 •	Back in Canada: We recorded interviews with immigrants at the top of Mont-Royal.
 
-•	Field recordings of ourselves while climbing mountains: We recorded conversations between ourselves about the significant transitional period we were undergoing in our lives at the time of recording this project, including our experiences immigrating to Canada, Joel’s gender transition and issues dealing with chronic fatigue from long Covid, and our completion of major life projects (Joel’s videogame project and Hang’s PhD). We discussed how these things were impacting and straining our long-distance relationship.
+•	Field recordings of ourselves while climbing mountains: We recorded conversations between ourselves about the significant transitional period we were undergoing in our lives at the time of recording this project, including our experiences immigrating to Canada, Joel’s gender transition and issues dealing with chronic fatigue from long Covid, and our completion of major life projects (Joel’s videogame project and Hang’s PhD). 
 
 <b>Interactivity Concept</b>
 
