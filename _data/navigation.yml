@@ -10,7 +10,8 @@ main:
     url: /collection-archive-grid/
   - title: "Posts"
     url: /year-archive/
-
+  - title: "CV"
+    url: /cv/
 
   # - title: "Sitemap"
   #   url: /sitemap/
