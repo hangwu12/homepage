@@ -7,14 +7,14 @@ header:
   image: /assets/images/mountain_1.png
   teaser: /assets/images/mountain_1.png
 gallery:
-  - url: /assets/images/Pikachu1.png
-    image_path: assets/images/Pikachu1.png
+  - url: /assets/images/mountain_2.png
+    image_path: assets/images/mountain_2.png
     alt: "placeholder image 1"
-  - url: /assets/images/Pikachu3.png
-    image_path: assets/images/Pikachu3.png
+  - url: /assets/images/mountain_3.png
+    image_path: assets/images/mountain_3.png
     alt: "placeholder image 3"
-  - url: /assets/images/Pikachu4.png
-    image_path: assets/images/Pikachu4.png
+  - url: /assets/images/mountain_4.png
+    image_path: assets/images/mountain_4.png
     alt: "placeholder image 4"
 
 author_profile: true
