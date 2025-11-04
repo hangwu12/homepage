@@ -9,38 +9,26 @@ author_profile: true
 
 <style>
 .hanging {
-  padding-left: 2em;
+  padding-left: -2em;
   text-indent: -2em;
 }
 </style>
 
-<p class="hanging">
-This is an example of hanging text used in Markdown through inline HTML. The first line hangs out to the left while the rest of the paragraph stays indented.
-</p>
 
 <b>PhD      University of Chicago, United States </b>
 
-<p>Joint PhD in the Department of Cinema and Media Studies and the Department of East Asian Languages and Civilizations,  2020—Present</p>
+<p class="hanging">Joint PhD in the Department of Cinema and Media Studies and the Department of East Asian Languages and Civilizations,  2020—Present</p>
 
-<style>
-.hanging {
-  padding-left: 2em;
-  text-indent: -2em;
-}
-</style>
+<p class="hanging"> <b>     Dissertation </b>: “Televisual Remediations: The Emergence of a Transmedia Worldbuilding in China”</p>
 
-<p class="hanging">
-This is an example of hanging text used in Markdown through inline HTML. The first line hangs out to the left while the rest of the paragraph stays indented.
-<p> <b>     Dissertation </b>: “Televisual Remediations: The Emergence of a Transmedia Worldbuilding in China”</p>
-
-<p> <b>     Committee Members</b>: Thomas Lamarre (chair), Paola Iovene, and Patrick Jagoda</p>
+<p class="hanging"> <b>     Committee Members</b>: Thomas Lamarre (chair), Paola Iovene, and Patrick Jagoda</p>
 
 <b>        McGill University, Canada </b>
-           Department of East Asian Studies, 2017- 2020 (transferred to UChicago)
+<p class="hanging">Department of East Asian Studies, 2017- 2020 (transferred to UChicago)</p>
 
 <b>MPhil   Hong Kong University of Science and Technology, HKSAR</b>
-           Division of Humanities, 2017 
+<p class="hanging">Division of Humanities, 2017 </p>
 
 <b>BA      Xiamen University, China </b>
-           Communication Studies, 2013
+<p class="hanging">Communication Studies, 2013</p>
 
