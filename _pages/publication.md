@@ -14,7 +14,7 @@ author_profile: true
 2025 “Affective Human-Monster Communication in Monster Hunt.” In <i> Digital Animalities: The Mediation of Animal Life in Ecopolitical Times </i> , edited by Jody Berlant and Thomas Lamarre, University of Minnesota Press, forthcoming.
 <br>
 
-2021 “Radio Broadcasting Infrastructures and Signaletic Fatality: Listening to the Enemy Radio in Socialist China.” In <i> <a herf="https://www.bloomsbury.com/us/sound-communities-in-the-asia-pacific-9781501360053/">Sound Communities in the Asia Pacific: Music, Media, and Technology </i></a>, edited by Lonán Ó Briain and Min Ong. Bloomsbury Academic, 171-189.
+2021 “Radio Broadcasting Infrastructures and Signaletic Fatality: Listening to the Enemy Radio in Socialist China.” In <i> <a herf="https://www.bloomsbury.com/us/sound-communities-in-the-asia-pacific-9781501360053/">Sound Communities in the Asia Pacific: Music, Media, and Technology </a></i>, edited by Lonán Ó Briain and Min Ong. Bloomsbury Academic, 171-189.
 <br>
 
 2020 Editor of the special issue on “动画、技术媒介与民族国家, Chinese Animation, Media Technologies, and Nation-State.” 《文学》 <i> Literature </i> , 复旦大学出版社 Fudan University Press, no.1.  
