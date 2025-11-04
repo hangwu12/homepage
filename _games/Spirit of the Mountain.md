@@ -22,7 +22,9 @@ classes: wide
 
 ---
 
-<i>Pikachu</i> is an adventure game that I made to celebrate the 2021 new year with people who had to at home (just like me) during the covid-19 pandemic. This is my first game project. I love that some players find it "brutal and simple."
+<i>Spirit of the Mountain</i> is a documentary game project about mountains, real and metaphorical. While the player takes on a challenging hike up and around a mountain, audio recordings will play. These recordings are taken from interviews with our friends, family, and strangers who live and work on mountains, as well as self-interviews we conducted while the two of us were hiking.
+
+The audio and challenging climbing gameplay invite reflection on the metaphorical mountains we choose to climb in our lives. This is a story about the commitments we make to our relationships, communities, and homes—whether this is somewhere we have stayed our whole lives or a place we are still seeking as immigrants—and how breakdowns and conflict with others occur, despite shared goals and rituals, in the pursuit of stable and healthy lives.
 
 <b>Game Gallery</b>
 
