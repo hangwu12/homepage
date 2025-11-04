@@ -15,5 +15,6 @@ Lamarre, Thomas. "The animation of China: An interim report." <i>Journal of Chin
 
 Macdonald, Sean. “It all started with a monkey.” <i>Animation in China: History, Aesthetics, Media</i>. Routledge, 2015.
 
-<a href="{{ site.url }}/assets/pdfs/animation_ucsd.pdf" style="text-decoration:none">Link to Slides </a>
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdfs/animation_ucsd.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 
