@@ -14,5 +14,7 @@ author_profile: true
 classes: wide
 
 ---
+My printmaking project on the city Chicago (1.0)
+
 <h4 style = "text-align: center;"> <i> Chicagohenge</i></h4>
 {% include gallery %}
