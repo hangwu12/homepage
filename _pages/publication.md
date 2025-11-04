@@ -18,7 +18,6 @@ author_profile: true
 <br>
 
 2020 Editor of the special issue on “动画、技术媒介与民族国家, Chinese Animation, Media Technologies, and Nation-State.” 《文学》 <i> Literature </i> , 复旦大学出版社 Fudan University Press, no.1.  
-<br>
 
 2020 “社会主义初期的木偶动画、生命感与现实主义, Puppet Animation in Socialist China: Realism and the Animated Feeling of Life.” 《文学》 <i> Literature </i> , 复旦大学出版社 Fudan University Press, no.1 (2020): 97-111. 
 <br>
