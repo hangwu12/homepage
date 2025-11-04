@@ -7,8 +7,6 @@ classes: wide
 author_profile: true
 ---
 
-<b>ABOUT</b>
-<br>
 
 Hello! Welcome to this space!
 
