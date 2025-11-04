@@ -320,6 +320,9 @@ collections:
   games:
     output: true
     permalink: /:collection/:path/
-  web-programming:
+  printmaking:
+    output: true
+    permalink: /:collection/:path/
+  video essay:
     output: true
     permalink: /:collection/:path/
