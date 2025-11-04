@@ -1,6 +1,6 @@
 ---
 title: "Spirit of the Mountain"
-excerpt: "A working-in-progress game"
+excerpt: "A working-in-progress interactive media project"
 date: 2025-06-23
 header:
 
