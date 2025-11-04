@@ -26,6 +26,9 @@ classes: wide
 
 The audio and challenging climbing gameplay invite reflection on the metaphorical mountains we choose to climb in our lives. This is a story about the commitments we make to our relationships, communities, and homes—whether this is somewhere we have stayed our whole lives or a place we are still seeking as immigrants—and how breakdowns and conflict with others occur, despite shared goals and rituals, in the pursuit of stable and healthy lives.
 
+<b>Game Gallery</b>
+
+{% include gallery %}
 
 <b>What Is a Documentary Game?</b>
 
