@@ -9,5 +9,7 @@ author_profile: true
 <br>
 <br>
 <b>
-<a href="{{ site.url }}/assets/pdfs/cv.pdf" style="text-decoration:none"> CV pdf </a>
+
+<object data="{{ site.url }}{{ site.baseurl }}/assets/pdfs/cv.pdf" width="1000" height="1000" type='application/pdf'></object>
+
 </b>
