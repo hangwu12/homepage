@@ -17,9 +17,7 @@ author_profile: true
 <b>PhD      University of Chicago, United States </b>
 
 <p class="hanging">Joint PhD in the Department of Cinema and Media Studies and the Department of East Asian Languages and Civilizations,  2020—Present</p>
-
 <p class="hanging"> <b>     Dissertation </b>: “Televisual Remediations: The Emergence of a Transmedia Worldbuilding in China”</p>
-
 <p class="hanging"> <b>     Committee Members</b>: Thomas Lamarre (chair), Paola Iovene, and Patrick Jagoda</p>
 
 <b>        McGill University, Canada </b>
