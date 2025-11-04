@@ -10,7 +10,8 @@ author_profile: true
 
 <b> GUEST LECTURES </b>
 <br>
-2023. “Theorizing Puppet Animation and Animal Life in Socialist China,” School of Media and Communication, Shenzhen University, Shenzhen.
+
+2023 “Theorizing Puppet Animation and Animal Life in Socialist China,” School of Media and Communication, Shenzhen University, Shenzhen.
 
 2023 “The Glitch Aesthetics and the Multi-layered Structure of Digital Games,” School of Media and Communication, Shenzhen University, Shenzhen. 
 
