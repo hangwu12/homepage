@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Chicagohenge"
 excerpt: "My printmaking work on the city Chicago"
 date: 2022-06-22
 header:
