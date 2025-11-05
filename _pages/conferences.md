@@ -28,7 +28,7 @@ author_profile: true
 
 2025 “The Emergence of a Novel–Television Assemblage in Late Colonial Hong Kong,” The Art and Politics of East Asia Workshop, University of Chicago.
 
-2025 Video Essay, “Stroboscopic Effects: Between North American Experimental Animation and Hong Kong Martial Arts Television,” Graduate Research Forum, Cinema and Media Studies, The University of Chicago.
+2025 Video Essay, “<a href="{{ site.baseurl }}/3-videoessay/Stroboscopic-Effects/" style="text-decoration:none">Stroboscopic Effects: Between North American Experimental Animation and Hong Kong Martial Arts Television</a>,” Graduate Research Forum, Cinema and Media Studies, The University of Chicago.
 
 2025 “Zine Reading + Printmaking Workshop,” momoration x OH Art Foundation, Zhou B Art Center, Chicago.
 
