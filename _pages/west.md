@@ -16,9 +16,9 @@ Source: The Anarchist Library https://theanarchistlibrary.org/library/david-grae
 
 第一部分：论 "西方传统 "概念的不连贯性
 
-    附记：论不可靠的西方之眼
+<p style="text-indent: 2em;">附记：论不可靠的西方之眼<p>
 
-    重构世界系统
+<p style="margin-left: 20px; margin-right: 20px;">重构世界系统</p>
 
 第二部分：民主不曾被发明
 
@@ -26,9 +26,9 @@ Source: The Anarchist Library https://theanarchistlibrary.org/library/david-grae
 
 第四部分：复原
 
-    "影响力之争"
+"影响力之争"
 
-    传统作为无休止的重塑实践
+传统作为无休止的重塑实践
 
 第五部分：国家的危机
 
@@ -95,24 +95,17 @@ Source: The Anarchist Library https://theanarchistlibrary.org/library/david-grae
 
 最重要的是，对于列维-布留尔而言，或者说对于大多数当代人类学家来说，“西方个人”比其它什么都重要——在我们书写某些类别的文章的时候，我们所需要伪装的正是这样一个毫无特征的理性的观察者，带着一双空洞的眼睛，任何个人的或社会的内容都被从中擦除干净了。 他与那些曾经存在、成长，并拥有爱、仇恨和承诺的任何一个人都没有什么关系。 他就是纯粹的抽象。认识到这些给人类学家们带来一个可怕的难题：如果并不存在所谓的“西方个人”，那么我们到底要比较什么？
 
-It seems to me, though, it creates an even worse problem for anyone who wishes to see this figure as the bearer of “democracy,” as well. If democracy is communal self-governance, the Western individual is an actor already purged of any ties to a community. While it is possible to imagine this relatively featureless, rational observer as the protagonist of certain forms of market economics, to make him (and he is, unless otherwise specified, presumed to be male) a democrat seems possible only if one defines democracy as itself a kind of market that actors enter with little more than a set of economic interests to pursue. This is, of course, the approach promoted by rational-choice theory, and, in a way, you could say it is already implicit in the predominant approach to democratic decision-making in the literature since Rousseau, which tends to see “deliberation” merely as the balancing of interests rather than a process through which subjects themselves are constituted, or even shaped (Manin 1994).[6] It is very difficult to see such an abstraction, divorced from any concrete community, entering into the kind of conversation and compromise required by anything but the most abstract form of democratic process, such as the periodic participation in elections.
-
 在我看来，对于任何希望把这一个体同样视为“民主”载体的人来说，这带来了一个更糟糕的问题。如果民主是社群自治，那么西方个人是与社群切断了各种联系的行为者。虽然我们可以将这个相对毫无特征的理性观察者想象成某种形式的市场经济学的主角，但使他（除非另有说明，他被认为是男性）成为民主主义者的前提是，民主必须被定义为一种市场，而行为者加入这一市场多半是为了追逐一套经济利益。当然，这是理性选择理论所倡导的方式，从某种意义上讲，你可以说它已经隐含在自卢梭以来的文献里关于民主决策的主要取向中了；这一取向倾向于将“协商”仅仅看做一种平衡利益的手段，而非一个构造甚至塑造主体的过程（Manin 1994，尾注6）。很少看到这种与任何具体的社群都脱离了的抽象形式加入到对话和妥协之中，毕竟只有在像是定期参选举这种民主过程最为抽象的形式中，这种对话妥协才是被需要的。
 
-
-World-Systems Reconfigured
 重构世界系统
-The reader may feel entitled to ask: If “the West” is a meaningless category, how can we talk about such matters? It seems to me we need an entirely new set of categories. While this is hardly the place to develop them, I’ve suggested elsewhere (Graeber 2004) that there are a whole series of terms— starting with the West, but also including terms like “modernity”—that effectively substitute for thought. If one looks either at concentrations of urbanism, or literary-philosophical traditions, it becomes hard to avoid the impression that Eurasia was for most of its history divided into three main centers: an Eastern system centered on China, a South Asian one centered on what’s now India, and a Western civilization that centered on what we now called “the Middle East,” extending sometimes further, sometimes less, into the Mediterranean.7 In world-system terms, for most of the Middle Ages, Europe and Africa both seem to have almost precisely the same relation with the core states of Mesopotamia and the Levant: they were classic economic peripheries, importing manufactures and supplying raw materials like gold and silver, and, significantly, large numbers of slaves. (After the revolt of African slaves in Basra from 868-883 CE, the Abbasid Caliphate seem to have began importing Europeans instead, as they were considered more docile.) Europe and Africa were, for most of this period, cultural peripheries as well. Islam resembles what was later to be called “the Western tradition” in so many ways—the intellectual efforts to fuse Judeo-Christian scripture with the categories of Greek philosophy, the literary emphasis on courtly love, the scientific rationalism, the legalism, puritanical monotheism, missionary impulse, the expansionist mercantile capitalism—even the periodic waves of fascination with “Eastern mysticism”—that only the deepest historical prejudice could have blinded European historians to the conclusion that, in fact, this is the Western tradition; that Islamicization was and continues to be a form of Westernization; that those who lived in the barbarian kingdoms of the European Middle Ages only came to resemble what we now call “the West” when they themselves became more like Islam.
 
 读者可能会想问，如果“西方”是毫无意义的范畴，那么我们该如何讨论这些问题？在我看来，我们需要一套全新的范畴。虽然在这里无法对它们详加讨论，但我在其他写作中（Graeber 2004）提出，有一系列术语（它们从西方开始，但其中也包括“现代性”等术语）可以有效地代替“思想”。如果人们关注的是城市的集聚或文学哲学的传统，就很难避免这样一种印象，即欧亚大陆在其大部分历史中都分为三个主要的中心：以中国为中心的东方体系，以现在的印度所在的区域为中心的南亚体系，还有以我们现在所谓的“中东”为中心的西方文明，它或多或少地延伸到地中海区域（尾注7）。从世界系统的角度来看，在中世纪的大多数时候，欧洲和非洲似乎都与美索不达米亚（Mesopotamia）和黎凡特（Levant）的核心国有着几乎完全相似的关系：它们都是经典的经济外围地区，从欧洲和非洲进口制成品，并向其提供黄金和白银等原材料以及大规模的奴隶。 （在868年至883年的非洲奴隶巴士拉叛乱之后，似乎阿拔斯王朝（Abbasid Caliphate）就开始引进欧洲奴隶，因为他们被认为更为温顺。）在这个期间的大部分时候，欧洲和非洲也是文化边缘地区。伊斯兰在很多方面都类似于后来被称为是“西方传统”的东西。包括将犹太教-基督教经典与希腊哲学范畴融合在一起的智性上的尝试，文学上对宫廷爱情的强调，科学理性主义，法制主义，清教徒一神论，传教意愿，扩张式的重商资本主义，以及甚至是对“东方神秘主义”的阶段性迷恋。只有具有最深刻的历史偏见才能使得欧洲历史学家盲目得出这样的结论——是的，这就“是”西方传统；伊斯兰化曾经是并且将是西方化的一种形式；那些生活在欧洲中世纪野蛮王国中的人们，在他们自己变得更接近伊斯兰的时候，才更接近我们现在所说的“西方”。
 
-If so, what we are used to calling “the rise of the West” is probably better thought of, in world-system terms, as the emergence of what Michel-Rolph Trouillot (2003) has called the “North Atlantic system,” which gradually replaced the Mediterranean semi-periphery, and emerged as a world economy of its own, rivaling, and then gradually, slowly, painfully, incorporating the older world economy that had centered on the cosmopolitan societies of the Indian Ocean. This North Atlantic world-system was created through almost unimaginable catastrophe; the destruction of entire civilizations, mass enslavement, the death of at least a hundred million human beings. It also produced its own forms of cosmopolitanism, with endless fusions of African, Native American, and European traditions. Much of the history of the seaborne, North Atlantic proletariat is only beginning to be reconstructed (Gilroy 1993; Sakolsky & Koehnline 1993; Rediker 1981, 1990; Linebaugh and Rediker 2001; etc.), a history of mutinies, pirates, rebellions, defections, experimental communities, and every sort of Antinomian and populist idea, largely squelched in conventional accounts, much of it permanently lost, but which seems to have played a key role in many of the radical ideas that came to be referred to as “democracy.” This is jumping ahead. For now, I just want to emphasize that rather than a history of “civilizations” developing through some Herderian or Hegelian process of internal unfolding, we are dealing with societies that are thoroughly entangled.
-
 如果是这样的话，从世界体系的角度而言，米歇尔-罗尔夫·特鲁洛（Michel-Rolph Trouillot, 2003）所称的“北大西洋系统 （North Atlantic system）”的出现可能更好地概括了我们习惯所说的“西方的崛起”。北大西洋系统逐渐取代了地中海半外围地区，并形成了自身的世界经济，并与较旧的以印度洋世界性社会为中心的世界经济相抗衡，然后逐渐、缓慢、又艰难地将后者合并。这个北大西洋世界系统是由几乎无法想象的灾难所造就的；其中包括整个的文明的破坏、大规模的奴役、以及至少一亿人的死亡。它还生产了它自身的世界主义形式，将非洲、美洲原住民、以及欧洲传统无休止地融合起来。北大西洋海上无产阶级的诸多历史才刚刚开始得以重建（Gilroy 1993; Sakolsky＆Koehnline 1993; Rediker 1981，1990; Linebaugh and Rediker 2001;等），这是一段暴动、海盗、反抗、叛逃、实验性社群、以及各种反律法（Antinomian）和平民主义（populist）思想的历史。它们在通行描述中被大量清除，其中许多已经永久性地消失了，但是它们似乎在后来被称为“民主”的许多激进思想的形成中发挥了关键作用。谈论这些有些跳跃了。现在，我只想强调，我们所要讨论的与其说是一个通过赫尔德式(Herderian)或者黑格尔式（Hegelian）的内部展开的过程而发展出来的“文明”的历史，不如说是以错综复杂的形式所连接起来的多个社会。
-Part II: Democracy Was Not Invented
+
 第二部分：民主不曾被发明
 
-I began this essay by suggesting that one can write the history of democracy in two very different ways. Either one can write a history of the word “democracy,” beginning with ancient Athens, or one can write a history of the sort of egalitarian decision-making procedures that in Athens came to be referred to as “democratic.”
+
 
 我在本文的开头就提出了，人们可以用两种截然不同的方式书写民主的历史。人们可以从古代雅典开始书写“民主”一词的历史，或者书写这种平等制定决策的程序的历史，其中雅典被称为是“民主”的。
 
