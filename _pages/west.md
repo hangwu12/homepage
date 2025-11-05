@@ -18,7 +18,7 @@ Source: The Anarchist Library https://theanarchistlibrary.org/library/david-grae
 
 <p style="text-indent: 2em;">附记：论不可靠的西方之眼<p>
 
-<p style="margin-left: 20px; margin-right: 20px;">重构世界系统</p>
+<p style="text-indent: 2em;">重构世界系统</p>
 
 第二部分：民主不曾被发明
 
