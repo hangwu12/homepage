@@ -3,7 +3,7 @@ title: "Stroboscopic Effects"
 excerpt: "A video essay"
 date: 2025-9-22
 header:
-  teaser: /assets/images/afterimage.png
+  teaser: /assets/images/afterimage1.png
 
 author_profile: true
 classes: wide
