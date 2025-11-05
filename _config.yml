@@ -317,15 +317,15 @@ defaults:
       share: false
 
 collections:
-  games:
+  1-games:
     output: true
     permalink: /:collection/:path/
-  printmaking:
+  2-printmaking:
     output: true
     permalink: /:collection/:path/
-  video-essay:
+  3-videoessay:
     output: true
     permalink: /:collection/:path/
-  augmented-reality-sketch:
+  4-AR:
     output: true
     permalink: /:collection/:path/
