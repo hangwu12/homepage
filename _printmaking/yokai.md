@@ -33,4 +33,4 @@ Summary of the Otogi Boko version of the story from wiki:
       <img src="{{site.baseurl}}/assets/images/yokai.png">
   </figure>
   </head>
-《古今和歌集》（元永本）下帖 東京国立博物館
+<a style = "text-align: center;">《古今和歌集》（元永本）下帖 東京国立博物館</a>
