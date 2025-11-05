@@ -4,7 +4,6 @@ excerpt: "A collective augmented reality experiment"
 date: 2022-11-22
 header:
   teaser: /assets/images/michigan.png
-
 author_profile: true
 classes: wide
 ---
