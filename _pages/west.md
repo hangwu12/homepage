@@ -1,5 +1,5 @@
 ---
-title: "从来没有过西方：民主形成于中部空间"
+title: ""
 permalink: /west/
 layout: single
 classes: wide
@@ -15,6 +15,7 @@ author_profile: true
 Source: The Anarchist Library https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west
 
 <br>
+
 第一部分：论 "西方传统 "概念的不连贯性
 
 附记：论不可靠的西方之眼
@@ -34,6 +35,7 @@ Source: The Anarchist Library https://theanarchistlibrary.org/library/david-grae
 第五部分：国家的危机
 
 不可能的婚姻
+
 <br>
 
 本文的写作主要是基于我在另类全球化运动中的经验，在这场运动中，与民主相关的问题一直是各方争论的核心。欧美的无政府主义者与全球南方世界(Global South)的本土组织意识到他们均陷入了异常相似的论述之中。“民主”是固有于西方的概念吗？它指的是一种治理形式（一种社区自我组织的模式），还是一种政府模式（一种架构国家机器的特殊方式）？民主是否一定意味着多数人的统治？代议制民主是真的民主吗？民主这一词汇是否因其起源于雅典而永久地有了污点，鉴于雅典是一个建立在对于妇女的系统性压迫的基础上的军事化的蓄奴社会？或者说，我们现在所谈论的“民主”真的与雅典式的民主有什么真实的历史联系吗？对于那些试图发展出基于共识的直接民主(direct democracy)的去中心化的形式的人们来说，他们是否可能重新定义这一词汇？如果是这样，我们如何能够说服世界上的大部分人，其实“民主”与选举代表毫无关系？不能的话，如果我们接受民主的标准定义，并以其它的名字改称直接民主，我们如何能声称我们反对民主——一个具有如此普遍的积极意义的词汇？

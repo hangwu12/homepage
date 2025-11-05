@@ -6,11 +6,9 @@ classes: wide
 author_profile: true
 ---
 
-
-
 <b>EDUCATION</b>
 
-<p><b>PhD      University of Chicago, United States </b> 2020—Present</p> 
+<p><b>PhD      University of Chicago, United States, </b> 2020—Present</p> 
 
 <p style="text-indent: 2em;">Joint PhD in the Department of Cinema and Media Studies and the Department of East Asian Languages and Civilizationst</p>
 
