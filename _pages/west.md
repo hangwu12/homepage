@@ -256,3 +256,300 @@ Source: The Anarchist Library https://theanarchistlibrary.org/library/david-grae
 换句话说，尽管事实上，任何要以民主化的方式推进诉讼的建议都可能引起所有相关人员的恐惧，但是“人民”必须要被征用并成为分配暴力的幕后权威。 曼恩建议，为了解决这一矛盾所进行的现实努力，即利用暴力手段确认并组成一个让维持国家装置者认为值得成为其权威来源的“人民”，仅仅是在二十世纪就要为至少六千万起谋杀负责。
 
 正是在这种情况下，我可能会建议说，无政府主义者的解决方案（此悖论确实不存在解决方案）并非没有合理之处。民主国家一直是一个矛盾。全球化只是通过在世界范围内制造建立决策结构的必要性而暴露了其腐朽的根基，在这种决策结构中，任何试图维持民众主权伪装的企图显然都是荒谬的，更不用说参与了。当然，新自由主义的解决方案是宣布说市场才是人们所真正需要的唯一公共协商形式，并将国家几乎完全限制在其强制性职能之内。在这种情况下，萨帕塔的回应是完全合理的，即否认革命就是夺取国家强制性装置的控制权，转而建议要在自治社群的自我组织中重新建立民主。这就是墨西哥南部原本不为人知的暴动引发了激进人士的轰动的原因。暂时地，民主回到其起源的空间：两者之间的中部空间。然后它是否可以继续蔓延到整个世界，也许相对少地取决于我们针对它形成了什么样的理论，而是更多地取决于我们是否诚实地相信，普通的人们能否坐下来成为协商的主体并管理自己的事务，那些受到武器力量的支持作出决策的精英们能否为普通人管理这些事物——甚至说，即使是无法做到，他们是否拥有作出相应尝试的权利。面对这样的问题，在人类的大多数历史中，专业知识分子几乎都站在了精英的一侧。归根结底说来，在我的印象中，绝大多数人仍然会被各种丑陋的镜子所吸引，并对人民民主的可能性并不抱有真正的信念。但是，也许这也可能改变。
+
+
+#### Bibliography
+
+**Adams, John**
+
+1797 _Defense of the Constitutions of Government of the United States of America, Against the Attack of M. Turgot in his Letter to Dr. Price_, Dated the Twenty-Second Day of March, 1778. Philadelphia: W. Cobbet.
+
+**Arrighi, Giovanni, Ahmad, Iftikhar, and Miin-wen Shih**
+
+1997 “Beyond Western Hegemonies.” Paper presented at the XXI Meeting of the Social Science History Association, New Orleans, Louisiana, October 10–13, 1996. Available at: http://fbc.binghamton.edu/gaht5.htm.
+
+**Arrighi, Giovanni, Po-Keung Hui, Ho-Fung Hung, and Mark Selden**
+
+2003 “Historical Capitalism, East and West.” In _The Resurgence of East Asia: 500, 150, and 50 Year Perspectives_ (G. Arrighi, T. Hamashita, and M. Selden, eds.). London: Routledge.
+
+**Axtell, James**
+
+1985 _The Invasion Within: The Contest of Cultures in Colonial North America._ Oxford: Oxford University Press.
+
+**Baechler, Jean**
+
+1985 _Démocraties,_ Paris: Calmann-Lévy.
+
+**Benjamin, Walter**
+
+1978 “Critique of Violence.” In _Reflections: Essays, Aphorisms, and Autobiographical Writings._ New York: Harcourt Brace Jovanovich.
+
+**Calloway, Colin**
+
+1997 _New Worlds For All: Indians, Europeans, and the Remaking of Early America._ Baltimore: Johns Hopkins.
+
+**Castoriadis, Cornelius**
+
+1991 _Philosophy, Politics, Autonomy: Essays in Political Philosophy._ New York: Oxford University Press.
+
+**Collier, George A. with Elizabeth Lowery Quaratiello**
+
+1999 _Basta! Land & The Zapatista Rebellion in Chiapas._ Revised Edition. Oakland: Food First Books.
+
+**Dever, William G.**
+
+2000 “How Was Ancient Israel Different?” In _The Breakout: The Origins of Civilization,_ M. Lamber-Karlovsky, ed. Cambridge, MA: Harvard University Press.
+
+**Dupuis-Déri, Francis**
+
+1999 “L’Esprit Anti-Démocratique des Fondateurs des ‘Démocraties’ modernes.” _Agone_ 22: 95–113.
+
+2002 “The Struggle Between Political Agoraphobia and Agoraphilia.” Paper presented at the Massachusetts Institute of Technology, political science workshop.
+
+2004 “The Political Power of Words: The Birth of Pro-Democratic Discourse in the Nineteenth Century in the United States and Canada.” _Political Studies_ 52: 118–134.
+
+2005 “Anarchy in Political Philosophy.” _Anarchist Studies._ Volume 13 no 1: 8–22.
+
+**Federici, Silvia, ed.**
+
+1995 _Enduring Western Civilization: The Construction of the Concept of Western Civilization and its “Others.”_ London: Praeger.
+
+**Gilroy, Paul**
+
+1993 _The Black Atlantic: Modernity and Double Consciousness._ Cambridge: Harvard University Press.
+
+**Godbout, Jacques**
+
+2005 “Pas de représentation sans représentativite?” _Revue du MAUSS Semestrielle_ No. 26: 90–104.
+
+**GoGwilt, Chris**
+
+1995 “True West: The Changing Idea of the West from the 1880s to the 1920s.” In _Western Civilization and its “Others”_ (S. Federici, ed.). London: Praeger.
+
+**Graeber, David**
+
+2001 _Toward an Anthropological Theory of Value._ New York: Palgrave.
+
+2004 _Fragments of an Anarchist Anthropology._ Chicago: University of Chicago Press.
+
+2005 “Fetishism and Social Creativity, or Fetishes are Gods in Process of Construction.” _Anthropological Theory,_ Volume 5 no 4: 407—438. \[Chapter 4 in this volume\]
+
+**Grinde, Donald A.**
+
+1977 _The Iroquois and the Founding of the American Nation._ San Francisco: Indian Historian Press.
+
+**Grinde, Donald A., and Bruce E. Johansen**
+
+1990 _Exemplar of Liberty: Native America and the Evolution of Democracy._ Los Angeles: University of California Los Angeles.
+
+1995\. “Sauce for the Goose: Demand and Definitions for ‘Proof’ Regarding the Iroquois and Democracy.” _William & Mary Quarterly_ 53 (3): 628–635.
+
+**Hammond, Mason**
+
+2000\. “The Indo-European Origins of the Concept of a Democratic Society.” In _The Breakout: The Origins of Civilization_ (M. Lamber-Karlovsky, ed.). Cambridge, MA: Harvard University Press.
+
+**Ho, Engseng**
+
+2004 “Empire Through Diasporic Eyes: A View From the Other Boat.” _Comparative Studies in Society and History_ 46(2): 210–246.
+
+**Huntington, Samuel P**
+
+1993 “The Clash of Civilizations.” _Foreign Affairs_ 72(3): 22–48.
+
+1996 “The West: Unique, Not Universal.” _Foreign Affairs_ 75(1): 28–46,
+
+Johansen, Bruce
+
+1982 _Forgotten Founders: How the American Indian Helped Shape Democracy._ Boston: Harvard Common Press.
+
+1998 _Debating Democracy: Native American Legacy of Freedom._ Santa Fe: Clear Light Publishers.
+
+**Kyle, Donald G.**
+
+1998 _Spectacles of Death in Ancient Rome._ New York: Routledge.
+
+**Lamberg-Karlovsky, C.C.**
+
+2000 “The Eastern ‘Breakout’ and the Mesopotamian Social Contract.” In _The Breakout: The Origins of Civilization_ (M. Lamber-Karlovsky, ed.). Cambridge, MA: Harvard University Press.
+
+**Lamberg-Karlovsky, Martha, ed.**
+
+2000 _The Breakout: The Origins of Civilization._ Peabody Museum Monographs. Cambridge: Harvard University Press.
+
+**Levy, Philip A.**
+
+1996 “Exemplars of Taking Liberties: The Iroquois Influence Thesis and the Problem of Evidence.” _William & Mary Quarterly_ 53(3): 587–604.
+
+**Levy-Bruhl, Lucien**
+
+1986 \[1926\] _How Natives Think_ (Lilian Clare, trans.). Salem: Ayer & Co.
+
+**Lewis, Martin W., and Kären E. Wigen**
+
+1997 _The Myth of Continents: A Critique of Metageography._ Berkeley: University of California Press.
+
+**Linebaugh, Peter**
+
+1991 _The London Hanged: Crime and Civil Society in the Eighteenth Century._ New York: Allen Lane, The Penguin Press.
+
+**Linebaugh, Peter, and Marcus Rediker**
+
+2000 _Many-Headed Hydra: Sailors, Slaves, Commoners, and the Hidden History of the Revolutionary Atlantic._ Boston: Beacon Press.
+
+**Lomar, Kathryn, and Tim Cornell, eds.**
+
+2003 _“Bread and Circuses”: Euergetism and Municipal Patronage in Roman Italy._ London: Routledge.
+
+**Lovejoy, Arthur**
+
+1955\. “The Chinese Origin of a Romanticism.” In _Essays in the History of Ideas._ New York: George Braziller.
+
+**MacGaffey, Wyatt**
+
+1994 “African Objects and the Idea of the Fetish.” _RES: Journal of Anthropology and Aesthetics_ 25: 123—31.
+
+**Manin, Bernard**
+
+1994 “On Legitimacy and Political Deliberation.” In _New French Thought: Political Philosophy_ (M. Lilia, ed.). Princeton: Princeton University Press.
+
+**Mann, Michael**
+
+1999 “The Dark Side of Democracy: the Modern Tradition of Ethnic and Political Cleansing.” _New Left Review_ 235: 18–45.
+
+**Markoff, John**
+
+1995 _Waves of Democracy: Social Movements and Political Change._ Thousand Oaks: Pine Forge Press.
+
+1999 “Where and When Was Democracy Invented?” _Comparative Studies in Society and History_ 41(4): 660—690.
+
+**Mignolo, Walter D.**
+
+2002 “The Many Faces of Cosmo-polis: Border Thinking and Critical Cosmopolitanism.” In _Cosmopolitanism_ (C. Breckenridge, S. Pollock, H. Bhabha, and D. Chakrabarty, eds.). Durham: Duke University Press.
+
+**Muhlberger, Steven, and Phil Paine**
+
+1993 “Democracy’s Place in World History.” _Journal of World History_ 4(1): 23–45.
+
+1997 “Democracy in Ancient India.” World History of Democracy site, http://www.nipissingu.ca./department/history/histdem/, accessed November 22, 2004.
+
+**Negri, Antonio**
+
+1999 _Insurgencies: Constituent Power and the Modern State_ (Maurizia Boscagli, trans.). Minneapolis: University of Minnesota Press.
+
+**Newman, Michael**
+
+1998 “Founding Feathers: The Iroquois and the Constitution.” _The New Republic_ 199(19): 17–21.
+
+**Ober, Josiah**
+
+1996 _The Athenian Revolution: Essays on Ancient Greek Democracy and Political Theory._ Princeton: Princeton University Press.
+
+**Ostrom, Elinor**
+
+1990 _Governing the Commons: The Evolution of Institutions for Collective Action._ Cambridge: Cambridge University Press.
+
+**Payne, Samuel B.**
+
+1997 “The Iroquois League, the Articles of the Confederation, and the Constitution.” _William and Mary Quarterly_ 53(3): 605–620.
+
+**Pietz, William**
+
+1985 “The Problem of the Fetish I.” _RES: Journal of Anthropology and Aesthetics_ 9: 5–17.
+
+1987 “The Problem of the Fetish II: The Origin of the Fetish.” _RES: Journal of Anthropology and Aesthetics_ 13: 23–45.
+
+1988 “The Problem of the Fetish IIIa: Bosman’s Guinea and the Enlightenment Theory of Fetishism.” _RES: Journal of Anthropology and Aesthetics_ 16: 105—123.
+
+**Rediker, Marcus**
+
+1981 ‘“Under the Banner of King Death’: The Social World of Anglo-American Pirates, 1716—1726.” _William & Mary Quarterly_, 3rd series, 38(2): 203–227.
+
+1987 _Between the Devil and the Deep Blue Sea: Merchant Seamen, Pirates, and the Anglo-American Maritime World, 1700—1750._ Cambridge: Cambridge University Press.
+
+2004 _Villains of All Nations: Atlantic Pirates in the Golden Age._ Beacon Press: Boston.
+
+**Ross, John**
+
+2000. _The War Against Oblivion: The Zapatista Chronicles._ Monroe, ME: Common Courage Press.
+
+**Rus, Jan, Rosalva Aída Hernández Castillo, and Shannan L. Mattiace**
+
+2003 _Mayan Lives, Mayan Utopias: The Indigenous Peoples of Chiapas and the Zapatista Rebellion._ Lanham, MD: Rowman and Littlefield.
+
+**Sakolsky, Ron and James Koehnline, eds.**
+
+1993 _Gone to Croatan: The Origins of North American Dropout Culture._ Brooklyn, NY: Autonomedia.
+
+**Sartori, Giovanni**
+
+1987 _The Theory of Democracy Revisited._ Chatham, NJ: Chatham House.
+
+**Saxonhouse, Arlene W.**
+
+1993 “Athenian Democracy: Modern Mythmakers and Ancient Theorists.” _PS: Political Science and Politics_ (26)3: 486–490,
+
+**Snow, Dean R.**
+
+1994 _The Iroquois._ London: Blackwell.
+
+**Tooker, Elizabeth**
+
+1988 “The United States Constitution and the Iroquois League.” _Ethnohistory_ 35: 305–36.
+
+1990 “Rejoinder to Johansen.” _Ethnohistory_ 37: 291–297.
+
+**Toynbee, Arnold**
+
+1934–1961 _A Study of History._ 12 volumes. New York: Oxford University Press.
+
+**Trouillot, Michel-Rolph**
+
+2003 _Global Transformations: Anthropology and the Modern World._ New York: Palgrave.
+
+**Veyne, Paul**
+
+1976 _Le Pain et Le Cirque: Sociologie Historique d’un Pluralisme Politique._ Paris: Editions du Seuil.
+
+**Wilkinson, David**
+
+1985 “Central Civilization.” _Comparative Civilizations Review,_ Fall 1985: 31–53.
+
+**Žižek, Slavoj**
+
+1998 “A Leftist Plea for Eurocentrism.” _Critical Inquiry_ 24: 989—1009.
+
+[\[1\]](https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west#fn_back1) But not those that speak Spanish or Portuguese. It is not clear if Huntington has passed judgment on the Boers.
+
+[\[2\]](https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west#fn_back2) It was utterly unremarkable, for example, for a Ming court official to be a Taoist in his youth, become a Confucian in his middle years, and a Buddhist on retirement. It is hard to find parallels in the West even today.
+
+[\[3\]](https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west#fn_back3) Some of his statements are so outrageous (for example, the apparent claim that, unlike the West, traditions like Islam, Buddhism, and Confucianism do not claim universal truths, or that, unlike Islam, the Western tradition is based on an obsession with law) that one wonders how any serious scholar could possibly make them.
+
+[\[4\]](https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west#fn_back4) Actually, one often finds some of the authors who would otherwise be most hostile to Huntington going even further, and arguing that love, for example, is a “Western concept” and therefore cannot be used when speaking of people in Indonesia or Brazil.
+
+[\[5\]](https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west#fn_back5) Or a French person to read Posidonius’ account of ancient Gaul and identify with the perspective of an ancient Greek (a person, who if he had actually met him, he would probably first think was some sort of Arab).
+
+[\[6\]](https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west#fn_back6) This is why Classical Greek philosophers are so suspicious of democracy, incidentally: because, they claimed, it doesn’t teach goodness.
+
+[\[7\]](https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west#fn_back7) This conclusion is in world-systems terms hardly unprecedented: what I am describing corresponds to what David Wilkinson (1987) for example calls the “Central Civilization.”
+
+[\[8\]](https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west#fn_back8) One reason this is often overlooked is that Hegel was among the first to use “the West” in its modern sense, and Marx often followed him in this. However, this usage was, at the time, extremely unusual.
+
+[\[9\]](https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west#fn_back9) One should probably throw in a small proviso here: Orientalism allowed colonial powers to make a distinction between rival civilizations, which were seen as hopelessly decadent and corrupt, and “savages,” who insofar as they were not seen as hopelessly racially inferior, could be considered possible objects of a “civilizing mission.” Hence Britain might have largely abandoned attempts to reform Indian institutions in the 1860s, but it took up the exact same rhetoric later in Africa. Africa was thus in some ways relegated to the “savage slot” that had been the place of the West—that is, had been before Europeans decided they were themselves “Westerners.”
+
+[\[10\]](https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west#fn_back10) “Though the first English planters in this country had usually a government and a discipline in their families and had a sufficient severity in it, yet, as if the climate had taught us to Indianize, the relaxation of it is now such that it is wholly laid aside, and a foolish indulgence to children is become an epidemical miscarriage of the country, and like to be attended with many evil consequences” (op. Cit.).
+
+[\[11\]](https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west#fn_back11) Usually, one can pick out pro-democratic voices here and there, but they tend to be in a distinct minority. In ancient Greece, for instance, there would appear to be precisely three known authors who considered themselves democrats: Hippodamus, Protagoras, and Democritus. None of their works, however, have survived so their views are only known by citations in anti-democratic sources.
+
+[\[12\]](https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west#fn_back12) It’s interesting to think about Athens itself in this regard. The results are admittedly a bit confusing: it was by far the most cosmopolitan of Greek cities (though foreigners were not allowed to vote), and historians have yet to come to consensus over whether it can be considered a state. The latter largely depends on whether one takes a Marxian or Weberian perspective: there was clearly a ruling class, if a very large one, but there was almost nothing in the way of an administrative apparatus.
+
+[\[13\]](https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west#fn_back13) Obviously the Chinese state was profoundly different in some ways as well: first of all it was a universalistic empire. But, Tooker to the contrary, one can borrow an idea without embracing every element.
+
+[\[14\]](https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west#fn_back14) Rather than pretend to be an expert on early-twentieth-century Indian scholarship, I’ll just reproduce Muhlenberger’s footnote: “K.P. Jayaswal, _Hindu Polity: A Constitutional History of India in Hindu Times_ 2nd and enl. edn. (Bangalore, 1943), published first in article form in 1911–13; D.R. Bhandarkar, _Lectures on the Ancient History of India on the Period from 650 to 325 B. C.,_ The Carmichael Lectures, 1918 (Calcutta, 1919); R.C. Majumdar. _Corporate Life in Ancient India,_ (orig. written in 1918; cited here from the 3rd ed., Calcutta, 1969, as _Corporate Life_).”
+
+[\[15\]](https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west#fn_back15) I say “almost.” Early Buddhism was quite sympathetic: particularly the Buddha himself. The Brahamanical tradition however is as one might expect uniformly hostile.
+
+[\[16\]](https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west#fn_back16) Most were in fact published in a journal called _Symbols._
+
+[\[17\]](https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west#fn_back17) One is tempted to say this leaves us to choose between two theories for the origin of Huntington’s “Western civilization,” one neoliberal, one crypto-fascist. But this would probably be unfair. At least the authors here do treat the broad zone that later includes Islam as part of a “Western” bloc to which they attribute the origin of Western ideas of freedom: though it is hard to do otherwise, since virtually nothing is known of what was happening in Europe during this early period. Probably the most fascinating contribution is Gregory Possehl’s essay on Harappan civilization, the first urban civilizaion in India, which, as fat as is presently known, seems to have lacked kingship and any sort of centralized state. The obvious question is what this has to say about the existence of early Indian “democracies” or “republics.” Could it be, for instance, that the first two thousand years of South Asian history was really the story of the gradual erosion of more egalitarian political forms?
+
+[\[18\]](https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west#fn_back18) I am drawing here on a conversation with Nolasco Mamani, who, among other things, was the Aymara representative at the UN, in London during the European Social Forum 2004.
