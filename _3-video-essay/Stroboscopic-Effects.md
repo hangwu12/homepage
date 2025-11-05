@@ -12,8 +12,7 @@ layout: single
 ---
 
 <h4 style = "text-align: center;"> Stroboscopic Effects: Between North American Experimental Animation and Hong Kong Martial Arts Television </h4>
-
-
+<p style = "text-align: center;">Launched at the Graduate Research Forum, Cinema and Media Studies, The University of Chicago, in 2025</p>
 
 <head style="text-align: center;">
 
