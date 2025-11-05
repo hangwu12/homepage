@@ -5,6 +5,8 @@ header:
   teaser: /assets/images/pm_yokai.png
 author_profile: true
 layout: single
+classes: wide
+
 ---
 
 

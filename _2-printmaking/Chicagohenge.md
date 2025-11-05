@@ -6,6 +6,8 @@ header:
   teaser: /assets/images/pm_chicago_1.png
 author_profile: true
 layout: single
+classes: wide
+
 ---
 
 

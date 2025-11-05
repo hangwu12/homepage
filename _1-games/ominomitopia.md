@@ -5,6 +5,7 @@ date: 2022-01-01
 header:
   teaser: /assets/images/omi_title1.png
 classes: wide
+layout: single
 author_profile: true
 gallery:
   - url: /assets/images/omi_title1.png

@@ -18,6 +18,7 @@ gallery:
 
 author_profile: true
 classes: wide
+layout: single
 
 ---
 
