@@ -323,9 +323,9 @@ collections:
   printmaking:
     output: true
     permalink: /:collection/:path/
-  video essay:
+  video-essay:
     output: true
     permalink: /:collection/:path/
-  augmented reality sketch:
+  augmented-reality-sketch:
     output: true
     permalink: /:collection/:path/
