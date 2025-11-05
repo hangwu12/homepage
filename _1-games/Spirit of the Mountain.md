@@ -27,15 +27,15 @@ layout: single
 
 The audio and challenging climbing gameplay invite reflection on the metaphorical mountains we choose to climb in our lives. This is a story about the commitments we make to our relationships, communities, and homes—whether this is somewhere we have stayed our whole lives or a place we are still seeking as immigrants—and how breakdowns and conflict with others occur, despite shared goals and rituals, in the pursuit of stable and healthy lives.
 
-<b>Sites of Interview</b>
+<h4 style = "text-align: center;"> Sites of Interview </h4>
 
 {% include gallery %}
 
-<b>What Is a Documentary Game?</b>
+<h4 style = "text-align: center;"> What Is a Documentary Game? </h4>
 
   A videogame with documentary characteristics is uncommon but not unheard of. Atuel (2025) and Despelote (2025) are recent examples of games that incorporate audio interview material into a work that involves interactive play. In Atuel, interviews with people about the Atuel River Valley in Argentina play as you explore the environments they are describing, while Despelote builds its explorable world out of field recordings and photographs from Quito, Ecuador.
 
-<b>Work Completed So Far: Audio Recordings</b>
+<h4 style = "text-align: center;"> Work Completed So Far: Audio Recordings</h4>
 
 The Canadian organization Weird Ghosts rewarded us with a studio development grant of $25,000 that we used in part to complete interviews and field recordings on mountains during a trip to China and Japan. Among the recordings we collected are the following:
 
@@ -53,7 +53,7 @@ The Canadian organization Weird Ghosts rewarded us with a studio development gra
 
 •	Field recordings of ourselves while climbing mountains: We recorded conversations between ourselves about the significant transitional period we were undergoing in our lives at the time of recording this project, including our experiences immigrating to Canada, Joel’s gender transition and issues dealing with chronic fatigue from long Covid, and our completion of major life projects (Joel’s videogame project and Hang’s PhD). 
 
-<b>Interactivity Concept</b>
+<h4 style = "text-align: center;"> Interactivity Concept</h4>
 
 Inspiration for challenging climbing mechanics alongside background audio are taken from the game Getting Over It with Bennett Foddy (2017). Clips from interviews will be programmed to play contextually depending on whether the player is making progress up the mountain or losing progress by falling down. The game’s goal is to walk, run, jump, and climb to overcome environmental obstacles such as steep cliffs and gaps in terrain to attempt to reach the top of the mountain within a set time limit. In case of failure, a new mountain will be procedurally generated out of modular components so that it is different every time, and each climb will be a different journey during which clips from different interviews play; this works well with the variety of thematically related but distinct stories we have collected.
 
@@ -61,7 +61,7 @@ A common issue we have identified with games that use background audio such as a
 
 The climbing gameplay and story’s themes of health will also intersect around issues of accessibility. All major story dialogues will be completable after a set number of climbs regardless of whether the player ever gets the top of the mountain to emphasize that changing the goal and redefining what “failure” means is a reasonable and necessary response to one’s health condition and the expectations of the people around you.
 
-<b>Goals of Conceptualization Phase and Deliverables</b>
+<h4 style = "text-align: center;"> Goals of Conceptualization Phase and Deliverables</h4>
 
 •	Mechanics and market research
 
@@ -71,15 +71,15 @@ A number of games have recently released or are soon releasing in a nascent clim
 
 We need to set up a test of functionality of the game’s climbing and stamina mechanics alongside the use of background audio to confirm that this will work before developing a larger prototype with a full game loop and climbable mountain. Since the audio is in multiple languages, we will also spend some time testing different ways of effectively presenting subtitled text translations on screen. We would use funds to program this basic functionality in Unity, bring the results to playtest events around Montreal to confirm that players find this form of mechanic and narrative delivery engaging, and make adjustments as needed.
 
-<b>Team Description</b>
+<h4 style = "text-align: center;"> Team Description</h4>
 
-Astro Girls
+<h4 style = "text-align: center;"> Astro Girls</h4>
 
 Astro Girls is a game studio making experimental, political games for social impact. We are making work around social issues that connect people and bring diverse communities together, both inside of game development and out.
 We are recipients of a studio development grant of $25,000 from the Canadian organization Weird Ghosts, which provides funds for impact-oriented game studios.
 The studio currently consists of Joel Jordon and Hang Wu, whose individual accomplishments in game development are listed below.
 
-<b>Joel Jordon</b> (she/her)
+<h4 style = "text-align: center;"> Joel Jordon (she/her)</h4>
 
 I am a queer trans game developer based in Montreal. I have experience in all aspects of production, including programming, art, narrative design and writing, sound design and music, and marketing and promotion. I produced and released Time Bandit (2023), a real-time adventure game, as an entirely solo-developed project. It was an Independent Games Festival Nuovo Award Finalist and A.MAZE / Berlin winner. I exhibited the game at the Experimental Game Workshop at the Game Developers Conference (San Francisco), WASD x IGN Curios (London), Montreal Comiccon, Toronto Comics X Games, and the Games Y’all “Impact Games” Edition (Austin). I was interviewed about the game for IGN, RockPaperShotgun, PC Gamer, and Destructoid. It was ranked a Game of the Year by Remap Radio and Slant Magazine.
 
@@ -87,7 +87,8 @@ I have also worked on a variety of other commercial and noncommercial games, som
 
 I have lived in New York City and Montreal and actively participate in both local game development communities. I have been involved with organizing events at Babycastles in NYC and regularly participated in events at the NYU Game Center, and in Montreal I have been involved with organizing events, including game showcases and talks, at GamePlaySpace, Game Curious, and the Technoculture, Art, and Games Lab at Concordia University.
 
-<b>Hang Wu</b> (she/her)
+<h4 style = "text-align: center;"> Hang Wu (she/her)</h4>
+
 I am a digital media artist and game designer from China currently based in Montreal and Chicago. I am also a PhD candidate and researcher in digital media studies and East Asian studies at the University of Chicago.
 
 My creative practice is deeply informed by my academic training and scholarly perspective as a media studies researcher. My series of games developed using the Pico-8 platform, such as Music Box with 16 Tunes (2021), draw inspiration from early 20th-century experimental animation and cinema. Projects such as Planets Orbiting Over Lake Michigan (2021) and Gerald Underwater (2021, in collaboration) leverage cutting-edge smartphone-based augmented reality to transform everyday spaces with surreal visual overlays, reshaping our perception of daily life.
