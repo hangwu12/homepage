@@ -4,6 +4,7 @@ excerpt: "A collective augmented reality experiment"
 date: 2022-11-22
 header:
   teaser: /assets/images/underwater.png
+
 author_profile: true
 classes: wide
 
@@ -21,7 +22,6 @@ Music: Haruomi Hosono 细野晴臣
 <head style="text-align: center;">
     <iframe width="560" height="315" src="https://www.youtube.com/watch?v=QcFWRk9LYDQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <br>
-
 
 I have been really into different kinds of digital media practices and enjoyed spending time working on practical projects while writing academic papers. The two things always talk to each other in different ways. Taking this course is also an extension of such interest to see how practices and theoretical thinking could inform each other and give a hybrid child. On the one hand, I have some experience in game production and programming languages and a strong interest in working on digital media arts. On the other hand, I also have a theoretical interest in new media and digital media as part of my research project. As my dissertation is concerned with new media and digital media technologies, one of the crucial research questions for me to explore is the integration of CGI or digital effects and live-action filming. The compositing of visual effects and live-action footage has been increasingly common in contemporary filmmaking and new media practices. Regardless of how problematic it may appear to be as a principle, an ideal seamless integration between the two worlds has always been a challenge for film technicians and media producers. As for me, a cinema and media study student, I am very interested in making sense of this phenomenon: How do we understand such compositing? How does it alter our understanding of reality, media, the mediated environment that is our society? And how do we situate humans in this media assemblage and in what mode of existence?
 
