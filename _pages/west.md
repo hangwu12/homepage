@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 <h4 style = "text-align: center;"> 从来没有过西方：民主形成于中部空间 </h4>
-
+<p style = "text-align: center;">There Never Was a West Or, Democracy Emerges From the Spaces In Between</p>
 <p style = "text-align: center;">作者：大卫·格雷伯 Author: David Graeber</p>
 
 <p style = "text-align: center;">译者：吴航 Translator: Hang Wu</p>
