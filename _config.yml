@@ -326,3 +326,6 @@ collections:
   video essay:
     output: true
     permalink: /:collection/:path/
+  augmented reality sketch:
+    output: true
+    permalink: /:collection/:path/
