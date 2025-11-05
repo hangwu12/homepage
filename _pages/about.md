@@ -1,7 +1,6 @@
 ---
 title: ""
 permalink: /about/
-date: 2025-10-24 
 layout: single
 classes: wide
 author_profile: true
