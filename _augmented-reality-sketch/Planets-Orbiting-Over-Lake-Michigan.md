@@ -6,7 +6,9 @@ header:
   teaser: /assets/images/michigan.png
 author_profile: true
 classes: wide
+
 ---
+
 
 <head style="text-align: center;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/VMqXH1OJfkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
