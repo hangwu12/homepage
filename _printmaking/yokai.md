@@ -1,7 +1,6 @@
 ---
 title: "Botan Dōrō"
 excerpt: "A printmaking work inspired by East Asian ghost stories"
-date: 2022-06-22
 header:
   teaser: /assets/images/pm_yokai.png
 author_profile: true
