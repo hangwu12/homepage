@@ -1,7 +1,7 @@
 ---
-title: GAMES
+title: 1-GAMES
 layout: collection
-permalink: /games/
+permalink: /1-games/
 collection: GAMES
 entries_layout: grid
 classes: wide
