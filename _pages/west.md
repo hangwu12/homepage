@@ -1,21 +1,24 @@
 ---
-title: ""
+title: "从来没有过西方：民主形成于中部空间"
 permalink: /west/
 layout: single
 classes: wide
 author_profile: true
 
 ---
-《从来没有过西方：民主形成于中部空间》
-大卫·格雷伯
+<h4 style = "text-align: center;"> 从来没有过西方：民主形成于中部空间 </h4>
 
-翻译：吴航
+<p style = "text-align: center;">作者：大卫·格雷伯</p>
+
+<p style = "text-align: center;">译者：吴航</p>
+
+Source: The Anarchist Library https://theanarchistlibrary.org/library/david-graeber-there-never-was-a-west
 
 第一部分：论 "西方传统 "概念的不连贯性
 
-附记：论不可靠的西方之眼
+    附记：论不可靠的西方之眼
 
-重构世界系统
+    重构世界系统
 
 第二部分：民主不曾被发明
 
@@ -23,34 +26,16 @@ author_profile: true
 
 第四部分：复原
 
-"影响力之争"
+    "影响力之争"
 
-传统作为无休止的重塑实践
+    传统作为无休止的重塑实践
 
 第五部分：国家的危机
 
-不可能的婚姻
+    不可能的婚姻
 
 参考书目
 
-David Graeber
-There Never Was a West
-Or, Democracy Emerges From the Spaces In Between
-2007
-Part I: On the Incoherence Of the Notion of the “Western Tradition”
-Parenthetical Note: On the Slipperiness of the Western Eye
-World-Systems Reconfigured
-Part II: Democracy Was Not Invented
-Part III: On the Emergence of the “Democratic Ideal”
-Part IV: Recuperation
-The “Influence Debate”
-Traditions as Acts of Endless Refoundation
-Part V: The Crisis of the State
-The Impossible Marriage
-Bibliography
-
-
-What follows emerges largely from my own experience of the alternative globalization movement, where issues of democracy have been very much at the center of debate. Anarchists in Europe or North America and indigenous organizations in the Global South have found themselves locked in remarkably similar arguments. Is “democracy” an inherently Western concept? Does it refer a form of governance (a mode of communal self-organization), or a form of govern ment (one particular way of organizing a state apparatus) ? Does democracy necessarily imply majority rule? Is representative democracy really democracy at all? Is the word permanently tainted by its origins in Athens, a militaristic, slave-owning society founded on the systematic repression of women? Or does what we now call “democracy” have any real historical connection to Athenian democracy in the first place? Is it possible for those trying to develop decentralized forms of consensus-based direct democracy to reclaim the word? If so, how will we ever convince the majority of people in the world that “democracy” has nothing to do with electing representatives? If not, if we instead accept the standard definition and start calling direct democracy something else, how can we say we’re against democracy—a word with such universally positive associations?
 
 本文的写作主要是基于我在另类全球化运动中的经验，在这场运动中，与民主相关的问题一直是各方争论的核心。欧美的无政府主义者与全球南方世界(Global South)的本土组织意识到他们均陷入了异常相似的论述之中。“民主”是固有于西方的概念吗？它指的是一种治理形式（一种社区自我组织的模式），还是一种政府模式（一种架构国家机器的特殊方式）？民主是否一定意味着多数人的统治？代议制民主是真的民主吗？民主这一词汇是否因其起源于雅典而永久地有了污点，鉴于雅典是一个建立在对于妇女的系统性压迫的基础上的军事化的蓄奴社会？或者说，我们现在所谈论的“民主”真的与雅典式的民主有什么真实的历史联系吗？对于那些试图发展出基于共识的直接民主(direct democracy)的去中心化的形式的人们来说，他们是否可能重新定义这一词汇？如果是这样，我们如何能够说服世界上的大部分人，其实“民主”与选举代表毫无关系？不能的话，如果我们接受民主的标准定义，并以其它的名字改称直接民主，我们如何能声称我们反对民主——一个具有如此普遍的积极意义的词汇？
 
@@ -562,25 +547,4 @@ Ziiek, Slavoj
  
 Retrieved on April 23rd, 2016 from anth1001.files.wordpress.com
 From the collection "Possibilities: Essays on Hierarchy, Rebellion, and Desire" by AK Press
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
 
