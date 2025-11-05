@@ -16,9 +16,9 @@ Source: The Anarchist Library https://theanarchistlibrary.org/library/david-grae
 
 第一部分：论 "西方传统 "概念的不连贯性
 
-<p style="text-indent: 2em;">附记：论不可靠的西方之眼<p>
+附记：论不可靠的西方之眼
 
-<p style="text-indent: 2em;">重构世界系统</p>
+重构世界系统
 
 第二部分：民主不曾被发明
 
