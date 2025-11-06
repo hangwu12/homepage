@@ -4,7 +4,7 @@ excerpt: "A collective augmented reality experiment"
 date: 2022-11-22
 header:
   video:
-    id: _y36Gd2VBxNd3Hvq
+    id: QcFWRk9LYDQ?si=N4WTUvmzFVgi1iaO
     provider: youtube
 
 author_profile: true
