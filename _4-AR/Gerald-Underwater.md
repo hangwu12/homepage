@@ -1,12 +1,12 @@
 ---
-title: ""
+title: "Gerald Underwater"
 excerpt: "A collective augmented reality experiment"
 date: 2022-11-22
 header:
   video:
     id: QcFWRk9LYDQ?si=N4WTUvmzFVgi1iaO
     provider: youtube
-
+  teaser: /assets/images/underwater.png 
 author_profile: true
 classes: wide
 layout: single

@@ -6,6 +6,7 @@ header:
   video:
     id: VMqXH1OJfkM
     provider: youtube
+  teaser: /assets/images/michigan.png 
 author_profile: true
 classes: wide
 layout: single
