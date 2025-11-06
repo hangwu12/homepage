@@ -20,8 +20,7 @@ layout: single
 
 <p>An augmented reality sketch that I worked on for Prof. Marc Downie's production class. The windy weather and sands almost destroyed my laptop and phone while recording this video o(TヘTo)</p>
 
-<p>Course Description:</p>
-<p>Augmented Reality Production</p>
+<p>Course Description:</p> Augmented Reality Production
 >Focusing on experimental moving-image approaches at a crucial moment in the emerging medium of augmented reality, this class will explore and interrogate each stage of production of AR works. Students in this production- based class will examine the techniques and opportunities of this new kind of moving image. During this class we’ll study the construction of examples across a gamut from locative media, journalism, and gameplay-based works to museum installations. Students will complete a series of critical essays and sketches towards a final augmented reality project using a custom set of software tools developed in and for the class.</p>
 
 
