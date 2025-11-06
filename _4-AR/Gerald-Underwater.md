@@ -22,11 +22,6 @@ A composite view of the underwater world around Gerald (the little robot) and ou
 Music: Haruomi Hosono 
 
 
-<head style="text-align: center;">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/QcFWRk9LYDQ?si=Ry0R91ruNPvEA5dr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<br>
-
 <br>
 <b style = "text-align: center;"> Reflection Essay </b>
 
