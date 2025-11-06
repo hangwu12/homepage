@@ -13,7 +13,6 @@ layout: single
 
 ---
 
-<h4 style = "text-align: center;"> Gerald Underwater </h4>
 
 Teamwork augmented reality project (Hang Wu, Irene Li, Kiki Apple, Kristin Wu)
 
