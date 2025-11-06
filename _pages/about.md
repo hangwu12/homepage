@@ -10,7 +10,7 @@ author_profile: true
 
 <p><b>PhD      University of Chicago, United States, </b> 2020—Present</p> 
 
-<p style="margin-left: 20px; margin-right: 20px;">Joint PhD in the Department of Cinema and Media Studies and the Department of East Asian Languages and Civilizationst</p>
+<p style="margin-left: 20px; margin-right: 20px;">Joint PhD in the Department of Cinema and Media Studies and the Department of East Asian Languages and Civilization</p>
 
 <p style="margin-left: 20px; margin-right: 20px;">Dissertation: “Televisual Remediations: The Emergence of a Transmedia Worldbuilding in China”
 
