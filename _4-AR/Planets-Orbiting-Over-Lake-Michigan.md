@@ -3,7 +3,9 @@ title: "Planets Orbiting Over Lake Michigan"
 excerpt: "A augmented reality experiment"
 date: 2022-11-22
 header:
-  teaser: /assets/images/michigan.png
+  video:
+    id: VMqXH1OJfkM
+    provider: youtube
 author_profile: true
 classes: wide
 layout: single
