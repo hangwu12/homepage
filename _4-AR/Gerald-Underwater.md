@@ -1,5 +1,5 @@
 ---
-title: "Gerald Underwater"
+title: ""
 excerpt: "A collective augmented reality experiment"
 date: 2022-11-22
 header:
