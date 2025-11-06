@@ -40,4 +40,4 @@ Du, Daisy Yan.  <i> Animated Encounters: Transnational Movements of Chinese Anim
 
 <b>Others</b>
 
-2025 Podcast, Hang, Jimmy, and Linshan, “<a href="https://www.xiaoyuzhoufm.com/episode/68f5bdb9c10db2c3223082d7?s=eyJ1IjogIjVmMzJkNzMzZTBmNWU3MjNiYjZiYjNkZSJ9" style="text-decoration:none">《南京照相馆》中暴力的媒介化与战争记忆</a>, The Mediation of Violence and the Memory of War in <i>Dead to Rights</i>.” xiaoyuzhoufm.com.
+2025 Podcast, Hang, Jimmy, and Linshan, “<a href="https://www.xiaoyuzhoufm.com/episode/68f5bdb9c10db2c3223082d7?s=eyJ1IjogIjVmMzJkNzMzZTBmNWU3MjNiYjZiYjNkZSJ9" style="text-decoration:none">《南京照相馆》中暴力的媒介化与战争记忆</a>, The Mediation of Violence and the Memory of War in <i>Dead to Rights</i>,” xiaoyuzhoufm.com.
