@@ -13,7 +13,6 @@ layout: single
 
 ---
 
-
 Teamwork augmented reality project (Hang Wu, Irene Li, Kiki Apple, Kristin Wu)
 
 A composite view of the underwater world around Gerald (the little robot) and our studio space
