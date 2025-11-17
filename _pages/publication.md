@@ -32,6 +32,9 @@ author_profile: true
 
 2017 “<a href="https://www.academia.edu/34386154/%E9%97%BD%E5%8D%97%E5%9C%B0%E5%9F%9F%E6%96%87%E5%8C%96%E4%B8%8E%E5%9B%BD%E6%97%8F%E6%83%B3%E8%B1%A1_%E5%86%B7%E6%88%98_%E4%B8%AD%E7%9A%84%E5%8E%A6%E8%AF%AD%E7%89%87" style="text-decoration:none">闽南地域文化与国族想象：冷战中的厦语片</a>, The Hokkien Vernacular Imagination of Nation-States: the Amoy-Dialect Cinema During the Cold-War.” 《当代电影》 <i> Contemporary Cinema </i> , no.7 (2017), 144-150. 
 
+2015 “呐喊与哀歌：旅行中的夜莺——《夜莺》月刊(1936) The Outcry of the Traveling Nightingale: A Study of the Nightingale Magazine (1936).” <i>Cowrie: Journal of Comparative Literature and Comparative Culture</i> 《文贝:比较文学与比较文化》， 复旦大学出版社 Fudan University Press， no. 2 (2015): 104-21.
+
+
 <b>Translation</b>
 
 Graeber, David. "<a href="{{ site.baseurl }}/west" style="text-decoration:none"> 从来没有过西方：民主形成于中部空间 There Never Was a West, or Democracy Emerges from the Spaces in Between</a>." <i>Beyond Resistance: The Future of Freedom</i> (2007): 75-109. (English to Chinese)
